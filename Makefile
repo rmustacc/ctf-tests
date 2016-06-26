@@ -16,6 +16,7 @@ FILES = \
 	float.o \
 	func.o \
 	fptr.o \
+	negative-offset.o \
 	packstruct.o \
 	starr.o \
 	static.o \
